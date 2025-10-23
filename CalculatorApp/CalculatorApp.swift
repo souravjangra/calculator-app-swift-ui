@@ -1,6 +1,6 @@
 //
-//  CalculatorAppApp.swift
-//  CalculatorApp
+//  CalculatorApp.swift
+//  Calculator
 //
 //  Created by Sourav Jangra on 10/10/25.
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct CalculatorAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CalculatorView()
         }
     }
 }
